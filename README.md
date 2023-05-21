@@ -8,7 +8,7 @@ The AltoPi is a mix bettween a retro game emulator and a "hacking" device!
 - SD Card
 - Elbow Grease and some free time!
 
-Click [here](instructions.txt) to start
+Click [here](instructions.md) to start
 
 #Checklist
 - [ ] Make image
