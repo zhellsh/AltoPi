@@ -1,4 +1,3 @@
-# How to contribute
-The first step in contributing is creating an issue with the templete that aligns with what you want to contribute to.
-Fill out the template with all of the info and send it in!
-Make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md)!
+# How to Contribute
+1. Goto our [Discord Server](https://discord.gg/v53RE2rMQb) and follow all steps.
+2. You're done!
