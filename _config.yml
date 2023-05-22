@@ -3,4 +3,4 @@ description: A 2-in-1 Retro Game/Hacking Device
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-include: *
+include: contributing.md
