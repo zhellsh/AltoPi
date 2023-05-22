@@ -3,7 +3,8 @@
 - Battery. (Listed in the [parts to buy](p2b) section)
 - Altoids Tin.
 - The Sensors. (Listed in the [parts to buy](p2b) section)
-- The Display, Buttons, Switches, and Speakers (Listed in the [parts to buy](p2b) section).
+- The Display and Speakers (Listed in the [parts to buy](p2b) section).
+- An [8BitDo](https://www.8bitdo.com/zero2/) (or other small controller).
 - [3D printed parts](stls).
 - A drill.
 - An SD Card.
@@ -29,7 +30,6 @@
 1. Place the SD Card into the Pi and plug all of the cables into there respective slots.
 2. Fit all sensors into the GPIO pins as shown [here](gpio.png).
 3. Place the charging circut and battery into the tin.
-4. Place the button pcb and the buttons of choice into the tin.
 5. Place the speakers into the 3D print and plug them into the pi
 6. Charge the battery and turn it on.
 7. Glue it together
