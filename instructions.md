@@ -1,17 +1,17 @@
 # Things:
-- Raspberry Pi Zero 2.
-- Battery
+- Raspberry Pi Zero 2. Click [here](https://rpilocator.com/?cat=PIZERO2) to find a Raspberry Pi.
+- Battery. (Listed in the [parts to buy](p2b) section)
 - Altoids Tin.
-- The Sensors.
+- The Sensors. (Listed in the [parts to buy](p2b) section)
 - The Display, Buttons, Switches, and Speakers (Listed in the [parts to buy](p2b) section).
 - [3D printed parts](stls).
 - A drill.
 - An SD Card.
 - A Windows, Linux, or Mac machine.
 - The [image](Alto.img) provided.
-- A Marker
-- A Small Blade
-- Electrical Tape
+- A Marker.
+- A Small Blade.
+- Electrical Tape.
 
 # Steps to Follow
 1. Download the image and flash it to your SD card of choice. Set off to side.
