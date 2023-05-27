@@ -9,7 +9,7 @@
 - A drill.
 - An SD Card.
 - A Windows, Linux, or Mac machine.
-- The [image](Alto.img) provided.
+- The image provided. (On the main screen)
 - A Marker.
 - A Small Blade.
 - Electrical Tape.
